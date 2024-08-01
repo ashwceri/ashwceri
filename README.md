@@ -1,8 +1,8 @@
 ## welcome
 
-- i'm cherry
+- my name is cherry
 - i'm a front-end software developer at a small (ish) fin-tech company
-- i'm currently learning rust when i find the time outside of work
+- currently learning rust when i find the time outside of work
 
  <!--START_SECTION:waka-->
 
