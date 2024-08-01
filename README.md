@@ -6,7 +6,7 @@
 - currently learning rust when i find the time outside of work
 - fira code/fira sans number 1 fan
 
-## development breakdown:
+## code stats:
  <!--START_SECTION:waka-->
 
 ```txt
