@@ -5,4 +5,9 @@
 - i'm currently learning rust when i find the time outside of work
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
