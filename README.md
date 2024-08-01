@@ -7,4 +7,4 @@
 - fira code/fira sans number 1 fan
 
 ## code stats:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cerisity&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cerisity&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
