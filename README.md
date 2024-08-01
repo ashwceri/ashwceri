@@ -7,10 +7,4 @@
 - fira code/fira sans number 1 fan
 
 ## code stats:
- <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cerisity)](https://github.com/anuraghazra/github-readme-stats)
