@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '00 01,03,09,11,13,15,17,19,21,23 * * *'
-  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -26,5 +26,5 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
           LOCALE: en
