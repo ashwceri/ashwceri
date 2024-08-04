@@ -6,7 +6,6 @@
 - 🤓 currently learning rust when i find the time outside of work
 - 🖼️ fira code/sans & catppuccin number 1 fan
 
-## code stats:
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
