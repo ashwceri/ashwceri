@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '00 01,10,15,20 * * *'
+    - cron: '00 01,03,09,11,13,15,17,19,21,23 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -15,8 +15,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
@@ -27,3 +27,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          LOCALE: en
