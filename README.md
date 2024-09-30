@@ -1,7 +1,7 @@
 hi i am cherry, professionally i am a front-end dev at a UK based fintech company
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2025%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
