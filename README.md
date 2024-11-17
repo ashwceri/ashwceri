@@ -37,4 +37,4 @@ Linux                    13 hrs 58 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 <!--END_SECTION:waka-->
-- note that these stats don't include what i do for work
+- note that these stats don't include what i do for work & i don't use github professionally
