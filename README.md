@@ -14,7 +14,7 @@ i focus on front end development but i am a jack of all trades
 ### Stats  
 [i use arch + neovim btw](https://youtu.be/EZEfN5z8Mlg?t=15)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,13 +22,14 @@ i focus on front end development but i am a jack of all trades
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+conf                     26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.14 % 
+Other                    2 mins              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   29 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    29 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
