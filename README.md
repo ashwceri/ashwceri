@@ -1,5 +1,5 @@
 ### Hey
-i am cherry, i'm 23  
+i am ashley, i'm 23  
 professionally i am a full-stack developer at a UK based fintech company  
 i focus on front end development but i am a jack of all trades  
 
