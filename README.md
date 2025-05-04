@@ -7,7 +7,9 @@ i focus on front end development but i am a jack of all trades
 - JavaScript / TypeScript
 - CSS ( LESS / Tailwind )
 - C / C++
-- want to learn: Zig, Go
+### Want to Learn:
+- Zig
+- Go
 
 ### Stats  
 <!--START_SECTION:waka-->
