@@ -6,9 +6,7 @@ i focus on front end development but i am a jack of all trades
 ### My Realm  
 - JavaScript / TypeScript
 - CSS ( LESS / Tailwind )
-- Lua
-- C & PHP (rusty)
-- Rust / C++ (novice)
+- C / C++
 - want to learn: Zig, Go
 
 ### Stats  
