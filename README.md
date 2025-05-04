@@ -1,8 +1,3 @@
-### Hey
-i am ashley, i'm 24  
-professionally i am a full-stack developer at a UK based fintech company  
-i focus on front end development but i am a jack of all trades  
-
 ### My Realm  
 - JavaScript / TypeScript
 - CSS ( LESS / Tailwind )
@@ -36,4 +31,4 @@ Linux                    6 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 <!--END_SECTION:waka-->
-- note that these stats don't include what i do for work & i don't use github professionally
+- note that i don't use github professionally
