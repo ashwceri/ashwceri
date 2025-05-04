@@ -31,4 +31,4 @@ Linux                    6 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 <!--END_SECTION:waka-->
-- note that i don't use github professionally
+note that i don't use github professionally
