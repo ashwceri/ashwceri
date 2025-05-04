@@ -12,7 +12,6 @@ i focus on front end development but i am a jack of all trades
 - want to learn: Zig, Go
 
 ### Stats  
-[i use arch + neovim btw](https://youtu.be/EZEfN5z8Mlg?t=15)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2016%20mins-blue)
 
